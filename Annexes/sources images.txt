@@ -1,0 +1,17 @@
+image dkit : https://www.dkit.ie/about-dkit/your-campus/   LOGO : https://www.dkit.ie/sites/all/themes/dkit2015/logo.png
+
+image it sligo : https://www.itsligo.ie/campus-life/campus/  LOGO : https://pbs.twimg.com/profile_images/1160839828885426176/rBkM20ro_400x400.jpg
+
+image bci : http://www.bci-qc.ca/
+
+image uqac + logo : http://colloques.uqac.ca/prscpp/uqac/
+
+image pablo olavide : https://www.upo.es/portal/impe/web/contenido/f4bdd4a1-e461-11e5-b321-3fe5a96f4a88?channel=a3645af1-2f47-11de-b088-3fe5a96f4a88 LOGO : https://upload.wikimedia.org/wikipedia/en/6/69/Seal_of_Pablo_de_Olavide_University.png
+
+image + logo warsaw UT : https://www.pw.edu.pl/engpw
+
+image+logo uvt (roumanie) : https://www.uvt.ro/fr/
+
+image+logo cégep vieux montréal : http://www.cvm.qc.ca/Pages/index.aspx + http://www.mesetudes.ca/campus/cegep-du-vieux-montreal/
+
+fédération des kosen : https://www.kosen-k.go.jp/
